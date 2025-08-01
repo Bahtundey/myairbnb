@@ -1,7 +1,15 @@
 body{
-    background-color: #ebebeb;
+    background-color: white;
 }
-
+.papp{
+   background-color: #ebebeb;
+}
+.budd{
+   margin-top: -5%;
+}
+.mor{
+   margin-bottom: 5%;
+}
 .ft{
     font-size: 23px;
     color: #fe7a78;
@@ -100,6 +108,10 @@ body{
    
     display:block;
 }
+.mathh{
+   display: grid !important;
+  grid-template-columns: 1fr !important; 
+}
 .mat2{
     display: none;
 }
@@ -123,6 +135,7 @@ body{
    .matt{
     display: none;
    }
+
     
 }
 .met{
@@ -149,7 +162,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
-    height: 200px;
+    height: 160px;
  }
  .maxx{
     background-image: url(Images/imgi_415_283f4b83-af64-4e51-91f5-b5bce91c1db7.jpg); 
@@ -333,12 +346,12 @@ body{
  .tt2{
     width:100% !important;
  }
- @media (max-width:750px) {
+ /* @media (max-width:750px) {
    .maxx46{
       display: none;
    }
    
- }
+ } */
  
    
  

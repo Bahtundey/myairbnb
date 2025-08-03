@@ -7,8 +7,14 @@ body{
 .budd{
    margin-top: -5%;
 }
+.jat{
+   background-color: #2d3c5b;
+}
 .mor{
    margin-bottom: 5%;
+}
+.jaw{
+   padding: 50px;
 }
 .ft{
     font-size: 23px;
@@ -108,12 +114,15 @@ body{
    
     display:block;
 }
-.mathh{
+/* .mathh{
    display: grid !important;
   grid-template-columns: 1fr !important; 
-}
+} */
 .mat2{
     display: none;
+}
+.jaw{
+   padding: 10px;
 }
 
 .mat{
@@ -177,7 +186,10 @@ body{
  }
  .mut{
     font-size: 13px;
-    color: #898383;;
+    color: #898383;
+ }
+ .mtn{
+   color: #898383;
  }
  .bb{
    margin-top: 1%;
@@ -337,6 +349,9 @@ body{
  } */
  .tt{
     font-size: 13px;}
+ .ttt{
+      font-size: 15px;
+    }
     
  .tt1{
     font-size: 13px;
@@ -352,6 +367,17 @@ body{
    }
    
  } */
+  
+ .jab{
+   position: sticky;
+   bottom: 0;
+   left: 0;
+   background-color: white;
+ }
+ .jan{
+   display: block;
+   margin: auto;
+ }
  
    
  

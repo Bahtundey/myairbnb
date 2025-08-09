@@ -177,12 +177,13 @@ body{
     background-image: url(Images/imgi_415_283f4b83-af64-4e51-91f5-b5bce91c1db7.jpg); 
  }
  .mo{
-    width: 90px;
+    width: 80px;
     background-color: #ebebeb;
+    color: black;
     border-radius: 70px;
     font-size: 10px;
     border: none;
-    padding: 6px;
+    padding: 5px;
  }
  .mut{
     font-size: 13px;
